@@ -1,0 +1,29 @@
+{
+  "name": "@lunuy/assign-partial",
+  "version": "1.0.0",
+  "description": "Copy fields from one to another one based specified keys.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunuy/assign-partial.git"
+  },
+  "keywords": [
+    "assign",
+    "partial",
+    "key"
+  ],
+  "author": "Lunuy",
+  "license": "Unlicense",
+  "types": "./dist\\index.d.ts",
+  "bugs": {
+    "url": "https://github.com/lunuy/assign-partial/issues"
+  },
+  "homepage": "https://github.com/lunuy/assign-partial#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
